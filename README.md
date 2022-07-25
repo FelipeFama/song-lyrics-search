@@ -1,5 +1,5 @@
 # song-lyrics-search
- Aplicação para pesquisar letras de música.
+ Buscador de letras música
 
 ![song-lyrics-search](https://user-images.githubusercontent.com/91050670/180845839-58d1ad83-0383-46d5-be71-7f1ada9125c5.png)
 
