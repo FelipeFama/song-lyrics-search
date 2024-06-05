@@ -1,16 +1,16 @@
 # song-lyrics-search
- Buscador de letras música
+ Music lyrics search engine
 
 ![song-lyrics-search](https://user-images.githubusercontent.com/91050670/180845839-58d1ad83-0383-46d5-be71-7f1ada9125c5.png)
 
 ![song-lyrics-search-lyrics](https://user-images.githubusercontent.com/91050670/180846108-f056169d-ba0b-4518-942d-6e6ace3403c1.png)
 
-## :rocket: Informações do projeto
+## :rocket: Project information
 
-- aplicação web que busca letras de músicas.
-- Site da API: [Lyrics.ovh](https://lyrics.ovh/)
+- web application that searches song lyrics.
+- API Website: [Lyrics.ovh](https://lyrics.ovh/)
 
-## :wrench: Tecnologias Utilizadas
+## :wrench: Technologies Used
 <div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

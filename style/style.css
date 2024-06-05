@@ -91,7 +91,7 @@ form button {
   border: 0;
   border-radius: 10px;
   color: #fff;
-  padding: 4px 10px;
+  padding: 12px 10px;
 }
 
 .songs-container {
@@ -99,7 +99,7 @@ form button {
   padding: 0;
   margin: 30px auto;
   max-width: 100%;
-  width: 500px;
+  width: 700px;
   background-color: #10161B;
 }
 

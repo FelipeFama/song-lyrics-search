@@ -11,16 +11,13 @@
 
 <body>
   <header>
-    <h1>Pesquisar letras</h1>
-    <form id="form">
-      <input 
-       autofocus
-       type="text" 
-       id="search"
-       placeholder="Insira o nome do artista ou da música..." 
-      />
-      <button>buscar</button>
-    </form>
+    <h1>Lyrics search</h1>
+    <search>
+      <form id="form" action="search">
+        <input autofocus type="text" id="search" placeholder="Enter the name of the artist or song..." />
+        <button>search</button>
+      </form>
+    </search>
   </header>
 
   <ul id="songs-container" class="songs songs-container"></ul>
