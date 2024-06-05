@@ -2,7 +2,9 @@
  Music lyrics search engine
 
 ![song-lyrics-search](https://github.com/FelipeFama/song-lyrics-search/assets/91050670/d63484ae-978f-4479-b56b-cd86be83842c.png)
-![song-lyrics-search-lyrics](https://user-images.githubusercontent.com/91050670/180846108-f056169d-ba0b-4518-942d-6e6ace3403c1.png)
+
+![song-lyrics-search-lyrics](https://github.com/FelipeFama/song-lyrics-search/assets/91050670/4b88926c-ed85-49ed-9fc5-75eff3aecaa2.png)
+
 
 ## :rocket: Project information
 
