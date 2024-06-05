@@ -1,7 +1,7 @@
 # song-lyrics-search
  Music lyrics search engine
 
-![song-lyrics-search](https://user-images.githubusercontent.com/91050670/180845839-58d1ad83-0383-46d5-be71-7f1ada9125c5.png)
+![song-lyrics-search](https://github.com/FelipeFama/song-lyrics-search/assets/91050670/d63484ae-978f-4479-b56b-cd86be83842c.png)
 
 ![song-lyrics-search-lyrics](https://user-images.githubusercontent.com/91050670/180846108-f056169d-ba0b-4518-942d-6e6ace3403c1.png)
 
